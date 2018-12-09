@@ -10,3 +10,7 @@ marioplan web app is task management tool with using following Technology.
 7. Cloud Function
 8. Firebase Hosting
 
+Create Firebase project and Copy firebase connect key and paste to config/fbConfig.js file.
+
+# Live Demo
+ * https://marioplan-c516d.firebaseapp.com
